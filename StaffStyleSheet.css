@@ -1,0 +1,22 @@
+﻿body {
+    font-family: 'Dosis', sans-serif;
+}
+
+table {
+    font-family: 'Dosis', sans-serif;
+}
+.RequiredFieldValidator2 {
+    font-family: 'Dosis', sans-serif;
+}
+.LoginLogo{
+    margin-left: 40px;
+    width: 100px;
+}
+.LoginInputs {
+    margin-left: 40px;
+    width: 450px;
+    height: 230px;
+}
+.loginbutton {
+    margin-left: 60px;
+}

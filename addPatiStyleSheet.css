@@ -1,0 +1,15 @@
+﻿body {
+font-family: 'Dosis', sans-serif;
+}
+.CreatePatLabel{
+    margin-left:200px;
+}
+.PatientsData{
+    margin-left: 100px;
+}
+.nameTextBox{
+    margin-left: 25px;
+}
+.savebackBTN{
+    margin-left: 100px;
+}
