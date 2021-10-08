@@ -33,6 +33,15 @@ namespace TembisaHospitalSystem
         protected global::System.Web.UI.WebControls.Label dateLbl;
 
         /// <summary>
+        /// logout control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button logout;
+
+        /// <summary>
         /// userLbl control.
         /// </summary>
         /// <remarks>
@@ -67,15 +76,6 @@ namespace TembisaHospitalSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.DropDownList patientsDropDownList;
-
-        /// <summary>
-        /// GridView1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView GridView1;
 
         /// <summary>
         /// searthcBtn control.
@@ -114,12 +114,12 @@ namespace TembisaHospitalSystem
         protected global::System.Web.UI.WebControls.Button viewBtn;
 
         /// <summary>
-        /// logout control.
+        /// GridView1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button logout;
+        protected global::System.Web.UI.WebControls.GridView GridView1;
     }
 }

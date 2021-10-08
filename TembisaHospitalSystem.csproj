@@ -82,6 +82,7 @@
       <DependentUpon>staffLogins.mdf</DependentUpon>
     </Content>
     <Content Include="images\3f62948d936e4b0fc9be5ed8c1698716.jpg" />
+    <Content Include="images\BedsIntheBackground.jpg" />
     <Content Include="StaffHomePageStyleSheet.css" />
     <Content Include="StaffStyleSheet.css" />
     <Content Include="wards.aspx" />
