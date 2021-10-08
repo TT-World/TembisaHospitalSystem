@@ -4,11 +4,24 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <link rel="stylesheet" href="StaffHomePageStyleSheet.css"/>
+    <!--<link rel="stylesheet" href="StaffHomePageStyleSheet.css"/>-->
     <title></title>
     <link rel="preconnect" href="https://fonts.googleapis.com"/>
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap" rel="stylesheet"/>
+  
+    
+    <style type="text/css">
+        .calendar {
+            width: 132px;
+        }
+        .heading {
+            width: 318px;
+        }
+        .logoutBtn {
+            width: 131px;
+        }
+    </style>
   
     
 </head>
@@ -77,7 +90,7 @@
 
                         <br />
                    
-                        <asp:GridView ID="GridView1" runat="server" Height="129px" Width="870px" style="z-index: 1; left: 302px; top: 284px; position: absolute; height: 129px; width: 870px">
+                        <asp:GridView ID="GridView1" runat="server" Height="129px" Width="870px" style="z-index: 1; left: 298px; top: 332px; position: absolute; height: 129px; width: 870px">
                         </asp:GridView>
               
     </form>

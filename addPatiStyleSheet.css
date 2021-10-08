@@ -1,6 +1,7 @@
 ﻿body {
     font-family: 'Roboto', sans-serif;
-    background-image: url("images/BedsIntheBackground.jpg");
+    background-color:whitesmoke;
+   
 }
 .CreatePatLabel{
     margin-left:200px;
